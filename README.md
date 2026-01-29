@@ -1,5 +1,9 @@
 # 💫 About Me:
-Enthusiastic Software Developer proficient in Python, C, and Java, with solid foundations in computer science fundamentals.<br>Experienced in Unix/Linux environments, distributed systems, and machine learning. Passionate about building scalable and<br>maintainable solutions, with a strong interest in information retrieval and tackling complex challenges. Seeking an SDE 1 role to<br>leverage technical skills and grow within a dynamic, innovative environment.
+I’m a developer who likes building things that feel solid and intentional. I work mainly with Python, Django, and React, and I enjoy the process of breaking down messy problems into simple, testable solutions.
+
+I’ve worked on both frontend and backend tasks, from designing APIs to refining UI behavior, and I’m comfortable learning whatever a project demands. I enjoy debugging, improving performance, and automating repetitive workflows.
+
+I’m motivated by growth through real work, not just tutorials, and I’m looking to keep sharpening my skills while contributing meaningfully to a strong engineering team.
 
 
 ## 🌐 Socials:
