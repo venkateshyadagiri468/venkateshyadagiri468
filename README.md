@@ -1,14 +1,4 @@
-🧑‍💻 Software Engineer
-
-⚙️ Full Stack Development
-
-💻 Python • Django • React • PostgreSQL
-
-🧠 Clean Code • Problem Solving • System Design
-
-🌍 Real-World Impact Through Software
-
-⚡ Building Products That Matter
+🧑‍💻 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥  ⚙️ 𝗙𝘂𝗹𝗹 𝗦𝘁𝗮𝗰𝗸 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁   🧠 𝗖𝗹𝗲𝗮𝗻 𝗖𝗼𝗱𝗲 • 𝗣𝗿𝗼𝗯𝗹𝗲𝗺 𝗦𝗼𝗹𝘃𝗶𝗻𝗴 • 𝗦𝘆𝘀𝘁𝗲𝗺 𝗗𝗲𝘀𝗶𝗴𝗻  🌍 𝗥𝗲𝗮𝗹-𝗪𝗼𝗿𝗹𝗱 𝗜𝗺𝗽𝗮𝗰𝘁 𝗧𝗵𝗿𝗼𝘂𝗴𝗵 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲  ⚡ 𝗕𝘂𝗶𝗹𝗱𝗶𝗻𝗴 𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝘀 𝗧𝗵𝗮𝘁 𝗠𝗮𝘁𝘁𝗲𝗿
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/venky._.official) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/venkateshyadagiri468/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Venkyonline468) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:venkateshyadagiri468@gmail.com) 
