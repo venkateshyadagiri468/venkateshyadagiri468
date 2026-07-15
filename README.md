@@ -5,18 +5,8 @@
 I build full-stack applications with React, Next.js, Node.js, and Django.  
 Clean code, solid systems, and real-world solutions.
 
----
 
-## 📊 Stats
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Followers-5-black?style=flat&logo=github" />
-  <img src="https://img.shields.io/badge/Following-4-black?style=flat&logo=github" />
-  <img src="https://img.shields.io/badge/Repositories-14-black?style=flat&logo=github" />
-
-</div>
-
---
 ## 🧰 Languages and Tools
 
 <div align="center">
