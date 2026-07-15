@@ -73,27 +73,5 @@ With a full‑stack toolkit and a knack for system design, I focus on delivering
 ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VenkateshYadagiri&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VenkateshYadagiri&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VenkateshYadagiri&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="40%" />
-</p>
-
----
-
-## 🚀 Projects & Contributions
-
-Check out my pinned repositories below for some of the things I've been building.  
-Always open to collaboration and new ideas – hit me up on [LinkedIn](https://linkedin.com/in/venkateshyadagiri468/)!
-
----
-
 *“Simplicity is the ultimate sophistication.”* – Leonardo da Vinci  
 Keep coding, stay curious. ✨
