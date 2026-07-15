@@ -1,25 +1,20 @@
 # Venkatesh Yadagiri
 
-**JavaScript Fullstack Engineer · Django Backend Specialist · Creative Problem Solver**
+**Fullstack Developer · JavaScript & Django**
 
-I'm a full‑stack developer crafting digital experiences from concept to deployment.  
-I bridge the gap between dynamic JavaScript frontends (React, Next.js) and robust Python backends (Django) to build products that solve real problems and scale with confidence.
+I build full‑stack applications with React, Next.js, Node.js, and Django.  
+Clean code, solid systems, and real‑world solutions.
 
 ---
 
 ## 📊 Stats
 
 <div align="center">
-  <p>
-    <img src="https://img.shields.io/github/followers/VenkateshYadagiri?style=flat&label=Followers&color=black&logo=github" />
-    <img src="https://img.shields.io/github/stars/VenkateshYadagiri?style=flat&label=Stars&color=black&logo=github" />
-    <img src="https://img.shields.io/badge/dynamic/json?style=flat&label=Subscribers&query=data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dyoutube%26queryKey%3DVenkateshYadagiri&logo=youtube&logoColor=red&color=black&labelColor=black" />
-    <img src="https://img.shields.io/badge/dynamic/json?style=flat&label=Views&query=data.totalViews&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dyoutube%26queryKey%3DVenkateshYadagiri&logo=youtube&logoColor=red&color=black&labelColor=black" />
-  </p>
+  <img src="https://img.shields.io/github/followers/VenkateshYadagiri?style=flat&label=Followers&color=black&logo=github" />
+  <img src="https://img.shields.io/github/stars/VenkateshYadagiri?style=flat&label=Stars&color=black&logo=github" />
 </div>
 
 ---
-
 ## 🧰 Languages and Tools
 
 <div align="center">
