@@ -1,6 +1,6 @@
 # Venkatesh Yadagiri
 
-**Fullstack Developer · JavaScript & Django**
+**💻Fullstack Developer · JavaScript & Django**
 
 I build full-stack applications with React, Next.js, Node.js, and Django.  
 Clean code, solid systems, and real-world solutions.
@@ -13,7 +13,7 @@ Clean code, solid systems, and real-world solutions.
   <img src="https://img.shields.io/badge/Followers-5-black?style=flat&logo=github" />
   <img src="https://img.shields.io/badge/Following-4-black?style=flat&logo=github" />
   <img src="https://img.shields.io/badge/Repositories-14-black?style=flat&logo=github" />
-  <img src="https://img.shields.io/badge/Stars-12-black?style=flat&logo=github" />
+
 </div>
 
 --
