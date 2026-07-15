@@ -2,68 +2,73 @@
 
 **JavaScript Fullstack Engineer · Django Backend Specialist · Creative Problem Solver**
 
-I’m a full‑stack developer who crafts digital experiences from concept to deployment.  
-With a strong foundation in **JavaScript** (React, Next.js, Node) and **Python** (Django), I build products that solve real problems and scale with confidence.  
-I also share insights and projects on my social channels.
+I'm a full‑stack developer crafting digital experiences from concept to deployment.  
+I bridge the gap between dynamic JavaScript frontends (React, Next.js) and robust Python backends (Django) to build products that solve real problems and scale with confidence.
 
 ---
 
 ## 📊 Stats
 
 <div align="center">
-
-[![GitHub followers](https://img.shields.io/github/followers/VenkateshYadagiri?style=social)](https://github.com/VenkateshYadagiri)
-[![GitHub stars](https://img.shields.io/github/stars/VenkateshYadagiri?style=social)](https://github.com/VenkateshYadagiri)
-[![LinkedIn](https://img.shields.io/badge/-Connect-blue?style=social&logo=linkedin)](https://linkedin.com/in/venkateshyadagiri468/)
-[![YouTube](https://img.shields.io/badge/-Subscribe-red?style=social&logo=youtube)](https://youtube.com)
-
+  <p>
+    <img src="https://img.shields.io/github/followers/VenkateshYadagiri?style=flat&label=Followers&color=black&logo=github" />
+    <img src="https://img.shields.io/github/stars/VenkateshYadagiri?style=flat&label=Stars&color=black&logo=github" />
+    <img src="https://img.shields.io/badge/dynamic/json?style=flat&label=Subscribers&query=data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dyoutube%26queryKey%3DVenkateshYadagiri&logo=youtube&logoColor=red&color=black&labelColor=black" />
+    <img src="https://img.shields.io/badge/dynamic/json?style=flat&label=Views&query=data.totalViews&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dyoutube%26queryKey%3DVenkateshYadagiri&logo=youtube&logoColor=red&color=black&labelColor=black" />
+  </p>
 </div>
 
 ---
 
-## 🧰 Languages & Tools
+## 🧰 Languages and Tools
 
-### Frontend
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-
-### Backend (Node.js)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-
-### Backend (Python – Django)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
-
-### Databases
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-### DevOps & Tools
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+<div align="center">
+  <p>
+    <!-- JavaScript -->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" />
+    <!-- TypeScript -->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45" />
+    <!-- React -->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" />
+    <!-- Next.js -->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45" height="45" />
+    <!-- Node.js -->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45" />
+    <!-- Express -->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45" height="45" />
+    <!-- Python -->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" />
+    <!-- Django -->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="45" height="45" />
+    <!-- GraphQL -->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="45" height="45" />
+    <!-- PostgreSQL -->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45" />
+    <!-- MySQL -->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" />
+    <!-- MongoDB -->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45" />
+    <!-- Git -->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" />
+    <!-- AWS -->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="45" height="45" />
+    <!-- Vercel -->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="45" height="45" />
+    <!-- Postman -->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-plain.svg" width="45" height="45" />
+  </p>
+</div>
 
 ---
 
-## 🌐 Let's Connect
+## 🌐 Connect with Me
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/venky._.official)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/venkateshyadagiri468/)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Venkyonline468)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:venkateshyadagiri468@gmail.com)
+<div align="center">
+  <a href="https://instagram.com/venky._.official"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/venkateshyadagiri468/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/Venkyonline468"><img src="https://img.shields.io/badge/X-black.svg?style=flat&logo=X&logoColor=white" /></a>
+  <a href="mailto:venkateshyadagiri468@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+</div>
 
 ---
 
