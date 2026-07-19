@@ -1,4 +1,4 @@
-# Venkatesh Yadagiri
+# Venkatesh
 
 **Fullstack Developer · JavaScript & Django**
 
