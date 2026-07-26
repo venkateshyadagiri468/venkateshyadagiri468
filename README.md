@@ -35,3 +35,33 @@ const venkatesh = {
   currentlyLearning: ["System Design", "GraphQL", "DevOps"],
   funFact:    "I debug in the dark with lo-fi playing 🎧",
 };
+
+
+
+## ⚡ Tech Stack
+
+<div align="center">
+
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind&theme=dark" />
+
+<br/><br/>
+
+**Backend**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,django,graphql&theme=dark" />
+
+<br/><br/>
+
+**Databases & Cloud**
+<br/>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,aws,vercel&theme=dark" />
+
+<br/><br/>
+
+**Tools & Workflow**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,postman,docker,vscode&theme=dark" />
+
+</div>
