@@ -21,19 +21,35 @@
 
 <img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
+<img align="right" alt="Coding" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
+
 ### 👋 About Me
 
 ```javascript
 const venkatesh = {
-  role:       "Fullstack Developer",
-  location:   "India 🇮🇳",
-  frontend:  ["React", "Next.js", "TypeScript", "Tailwind CSS"],
-  backend:   ["Node.js", "Express.js", "Python", "Django"],
+
+  // ── Identity ──────────────────────────────────────────────
+  role:     "Fullstack Developer 🚀",
+  location: "India 🇮🇳",
+  status:   "Open to Work ✅",
+
+  // ── Tech Stack ────────────────────────────────────────────
+  languages: ["JavaScript", "TypeScript", "Python"],
+
+  frontend:  ["React", "Next.js", "Tailwind CSS"],
+  backend:   ["Node.js", "Express.js", "Django"],
   databases: ["PostgreSQL", "MongoDB", "MySQL"],
   cloud:     ["AWS", "Vercel"],
   tools:     ["Git", "Docker", "Postman", "GraphQL"],
-  passion:    "Building clean, scalable real-world apps",
-  philosophy: "Code is poetry written in logic 🎯",
+
+  // ── Focus ─────────────────────────────────────────────────
+  passion:          "Building clean, scalable real-world apps",
   currentlyLearning: ["System Design", "GraphQL", "DevOps"],
+
+  // ── Human ─────────────────────────────────────────────────
+  philosophy: "Code is poetry written in logic 🎯",
   funFact:    "I debug in the dark with lo-fi playing 🎧",
+
+  // ── Reach ─────────────────────────────────────────────────
+  contact: () => "venkateshyadagiri468@gmail.com",
 };
