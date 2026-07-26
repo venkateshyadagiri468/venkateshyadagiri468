@@ -29,7 +29,7 @@
 const venkatesh = {
 
   // ── Identity ──────────────────────────────────────────────
-  Bio:        "Fullstack Developer 🚀",
+  Bio:         "Fullstack Software Developer 💻⚡",
   Location:   "India 🇮🇳",
   OpenFor:    ["Full-time", "Freelance", "Collabs"],
 
