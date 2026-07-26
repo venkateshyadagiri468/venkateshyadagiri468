@@ -1,62 +1,37 @@
-# Venkatesh
-
-**Fullstack Developer · JavaScript & Django**
-
-I build full-stack applications with React, Next.js, Node.js, and Django.  
-Clean code, solid systems, and real-world solutions.
-
-
-
-## 🧰 Languages and Tools
-
 <div align="center">
-  <p>
-    <!-- JavaScript -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" />
-    <!-- TypeScript -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45" />
-    <!-- React -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" />
-    <!-- Next.js -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45" height="45" />
-    <!-- Node.js -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45" />
-    <!-- Express -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45" height="45" />
-    <!-- Python -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" />
-    <!-- Django -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="45" height="45" />
-    <!-- GraphQL -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="45" height="45" />
-    <!-- PostgreSQL -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45" />
-    <!-- MySQL -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" />
-    <!-- MongoDB -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45" />
-    <!-- Git -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" />
-    <!-- AWS -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="45" height="45" />
-    <!-- Vercel -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="45" height="45" />
-    <!-- Postman -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-plain.svg" width="45" height="45" />
-  </p>
+
+<!-- Animated Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Venkatesh&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Fullstack%20Developer%20·%20JavaScript%20%26%20Django&descAlignY=58&descSize=20&animation=twinkling" />
+
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;React+%7C+Next.js+%7C+Node.js+%7C+Django;Building+Real-World+Solutions+%F0%9F%8C%8D;Clean+Code+%7C+Solid+Systems+%F0%9F%94%A5;Always+Learning%2C+Always+Shipping+%E2%9C%A8" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- Visitor Counter + Profile Views -->
+<img src="https://komarev.com/ghpvc/?username=venkateshyadagiri468&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/venkateshyadagiri468?style=for-the-badge&color=7c3aed&labelColor=0d1117&label=FOLLOWERS" />
+
 </div>
 
 ---
 
-## 🌐 Connect with Me
+<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
-<div align="center">
-  <a href="https://instagram.com/venky._.official"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/venkateshyadagiri468/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="https://x.com/Venkyonline468"><img src="https://img.shields.io/badge/X-black.svg?style=flat&logo=X&logoColor=white" /></a>
-  <a href="mailto:venkateshyadagiri468@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-</div>
+### 👋 About Me
 
----
-
-> *“Code is poetry written in logic. Make it clean, make it count.”*
+```javascript
+const venkatesh = {
+  role:       "Fullstack Developer",
+  location:   "India 🇮🇳",
+  stack:      ["React", "Next.js", "Node.js", "Django"],
+  databases:  ["PostgreSQL", "MongoDB", "MySQL"],
+  cloud:      ["AWS", "Vercel"],
+  passion:    "Building clean, scalable real-world apps",
+  philosophy: "Code is poetry written in logic 🎯",
+  currentlyLearning: ["System Design", "GraphQL", "DevOps"],
+  funFact:    "I debug in the dark with lo-fi playing 🎧",
+};
