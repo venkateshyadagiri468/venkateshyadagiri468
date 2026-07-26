@@ -29,9 +29,9 @@
 const venkatesh = {
 
   // ── Identity ──────────────────────────────────────────────
-  role:     "Fullstack Developer 🚀",
-  location: "India 🇮🇳",
-  status:   "Open to Work ✅",
+  Bio:        "Fullstack Developer 🚀",
+  Location:   "India 🇮🇳",
+  OpenFor:    ["Full-time", "Freelance", "Collabs"],
 
   // ── Tech Stack ────────────────────────────────────────────
   languages: ["JavaScript", "TypeScript", "Python"],
