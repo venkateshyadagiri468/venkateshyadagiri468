@@ -28,7 +28,6 @@
 ```javascript
 const venkatesh = {
 
-  // ── Identity ──────────────────────────────────────────────
   Bio:        "Fullstack Software Developer 💻⚡",
   Location:   "India 🇮🇳",
   OpenFor:    ["Full-time", "Freelance", "Collabs"],
