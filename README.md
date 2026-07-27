@@ -26,7 +26,7 @@
 ### 👋 About Me
 
 ```javascript
-const venkatesh = {
+const venkatesh = { 
 
   Bio:        "Fullstack Software Developer 💻⚡",
   Location:   "India 🇮🇳",
